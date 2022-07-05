@@ -1,4 +1,4 @@
-package menWomenHeightSurvey;
+package menWomenHeightSurvey.controller;
 
 import java.util.Scanner;
 
